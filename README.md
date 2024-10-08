@@ -23,19 +23,19 @@ AllTick offers a superior solution for accessing real-time financial market data
 
 **1. Dependable Market Data Source**
 
-At AllTick, we prioritize data quality and system uptime, with a 99.95% Service Level Agreement (SLA). Our platform is built to exceed industry standards, ensuring the highest levels of availability and performance.
+At AllTick, we prioritize data quality and system uptime, with a **99.95% Service Level Agreement (SLA)**. Our platform is built to exceed industry standards, ensuring the highest levels of availability and performance.
 
 **2. Extensive Market Coverage**
 
-AllTick supports an impressive range of over 100,000 symbols, covering multiple asset classes from global exchanges. Whether you need stock, forex, futures, or cryptocurrency data, AllTick has you covered.
+AllTick supports an impressive range of over **100,000 symbols**, covering multiple asset classes from global exchanges. Whether you need stock, forex, futures, or cryptocurrency data, AllTick has you covered.
 
 **3. Ultra-Low Latency for Real-Time Data**
 
-Our platform delivers real-time data streams with remarkably low latency via WebSocket connections. The average latency is around 170 milliseconds, making AllTick an ideal choice for high-frequency trading and real-time applications.
+Our platform delivers **real-time data streams** with remarkably low latency via WebSocket connections. The average latency is around **170 milliseconds**, making AllTick an ideal choice for high-frequency trading and real-time applications.
 
 **4. Tick-by-Tick Data Updates**
 
-AllTick provides high-frequency data updates, pushing each and every tick in real-time. Every tick is fully traceable and synchronized with the exchange’s trading engine, ensuring you always have the most accurate and up-to-date information.
+AllTick provides high-frequency data updates, pushing each and every tick in real-time. Every tick is **fully traceable** and synchronized with the exchange’s trading engine, ensuring you always have the most accurate and up-to-date information.
 
 
 
