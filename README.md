@@ -18,7 +18,7 @@ Welcome to the **Real-time Hong Kong Stock Market Data API** by AllTick. This AP
 - Real-time stock price tracking
 - Data integration for trading platforms
 
-## Why Choose AllTick
+## Why Choose AllTick Hong Kong Stock Price API
 AllTick offers a superior solution for accessing real-time financial market data with a strong focus on accuracy, speed, and reliability. Here's why AllTick stands out:
 
 **1. Dependable Market Data Source**
