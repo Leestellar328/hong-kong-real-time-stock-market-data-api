@@ -9,7 +9,7 @@ Telegram: [https://t.me/alltick001](https://t.me/alltick001)
 ## Author: AllTick
 
 # Project Name: Real-time Hong Kong Stock Market Data API
-Welcome to the Real-time Hong Kong Stock Market Data API by AllTick. This API provides access to high-frequency real-time stock market data from the Hong Kong Stock Exchange (HKEX). It is designed for developers, traders, and quantitative analysts who need reliable, low-latency data for algorithmic trading, market analysis, and more.
+Welcome to the **Real-time Hong Kong Stock Market Data API** by AllTick. This API provides access to high-frequency real-time stock market data from the Hong Kong Stock Exchange (HKEX). It is designed for developers, traders, and quantitative analysts who need reliable, low-latency data for algorithmic trading, market analysis, and more.
 
 ## Features
 - Real-time Stock Data: Access live updates from the Hong Kong Stock Exchange.
