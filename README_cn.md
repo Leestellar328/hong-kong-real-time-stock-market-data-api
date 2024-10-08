@@ -1,20 +1,14 @@
 > [English](./README.md) | [中文](./README_cn.md)
 
-## 作者：AllTick
-## 联系我们
-Email: support@alltick.co
-
-Skype: [https://join.skype.com/invite/xokTc695huNu](https://join.skype.com/invite/xokTc695huNu)
-
-Telegram: [https://t.me/alltick001](https://t.me/alltick001)
-
 # AllTick实时港股行情数据API
+
+#### AllTick 实时香港股票市场数据API-港交所行情接口-低延迟WebSocket-逐笔推送高频数据接口
 
 欢迎使用 AllTick 提供的**实时香港股票市场数据API**。此 API 提供来自香港交易所（HKEX）的高频实时股票行情数据，专为开发者、交易员、量化分析师、CFD交易所设计，满足算法交易、市场分析等需求，确保数据的可靠性和低延迟。
 
 ## 功能
 - 实时股票数据：获取来自香港交易所的实时更新。
--全面数据：包含买/卖价、成交量、最新价格和市场深度。
+- 全面数据：包含买/卖价、成交量、最新价格和市场深度。
 - 低延迟：优化设计，适用于高频交易和快速数据处理。
 - 可扩展性：支持多个 API 请求并发，非常适合交易平台使用。
 - 可定制查询：根据需求获取特定股票数据或市场整体概况。
@@ -25,6 +19,26 @@ Telegram: [https://t.me/alltick001](https://t.me/alltick001)
 - 市场研究与分析
 - 实时股票价格跟踪
 - 股票交易平台、CFD交易所
+
+## 为什么选择AllTick港股行情数据接口
+
+AllTick 为获取实时金融市场数据提供了卓越的解决方案，专注于数据的准确性、速度和可靠性。
+
+**1. 可靠的市场数据来源**
+
+AllTick 以数据质量和系统稳定性为首要任务，平台拥有 99.95% 的服务级别协议（SLA），远超行业标准，确保为用户提供最高水平的可用性和性能。
+
+**2. 广泛的市场覆盖** 
+
+AllTick 支持超过 100,000 种金融产品代码，涵盖全球多个交易所的多种资产类别。无论是股票、外汇、期货还是加密货币的数据，AllTick 都能满足您的需求。
+
+**3. 超低延迟的实时数据** 
+
+我们的平台通过 WebSocket 提供超低延迟的实时数据流，平均延迟仅约为 170 毫秒，非常适合高频交易和实时应用场景。
+
+**4. 逐笔推送的高频数据** 
+
+AllTick 提供逐笔推送的高频数据，实时推送每一个交易报价。每个报价都可追溯，并与交易所的实时行情完全同步，确保您始终掌握最准确、最新的市场信息。
 
 ## 官网
 [https://alltick.co](https://alltick.co)
@@ -91,6 +105,8 @@ Email: support@alltick.co
 Skype: [https://join.skype.com/invite/xokTc695huNu](https://join.skype.com/invite/xokTc695huNu)
 
 Telegram: [https://t.me/alltick001](https://t.me/alltick001)
+
+## 作者：AllTick
 
 ## 其他作品
 官网:[https://alltick.co](https://alltick.co)
