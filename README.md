@@ -40,7 +40,7 @@ AllTick provides high-frequency data updates, pushing each and every tick in rea
 
 
 ## Official Website
-[https://alltick.co](https://alltick.co)
+[https://alltick.co](https://alltick.co/en-us/)
 
 
 ## Integration Guide
