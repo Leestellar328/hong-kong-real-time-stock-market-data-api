@@ -99,13 +99,6 @@ AllTick 提供逐笔推送的**高频数据**，实时推送每一个交易报�
 - [websocket请求示例](./example/java/WebSocketJavaExample.java)
 
 
-## 联系我们
-Email: support@alltick.co
-
-Skype: [https://join.skype.com/invite/xokTc695huNu](https://join.skype.com/invite/xokTc695huNu)
-
-Telegram: [https://t.me/alltick001](https://t.me/alltick001)
-
 ## 作者：AllTick
 
 ## 其他作品
