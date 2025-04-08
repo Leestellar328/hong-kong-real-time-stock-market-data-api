@@ -36,8 +36,6 @@
 - [取消报价订阅](./websocket_interface/cancel_realtime_quote_subscription_cn.md)
 - [K线推送(不支持)](./websocket_interface/k_line_push_cn.md)
 
-## 联系我们
-Email: support@alltick.co
 
 ## 官网
 - 官网：[https://alltick.co](https://alltick.co)
