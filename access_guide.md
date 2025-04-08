@@ -51,8 +51,5 @@
 - [K-line push (not supported)](./websocket_interface/k_line_push.md)
 
 
-## Contact Us
-Email: support@alltick.co
-
 ## Official website
 Official Website: [https://alltick.co](https://alltick.co/en-US)
