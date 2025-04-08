@@ -3,10 +3,7 @@
 # Hong Kong Stock
 [Hong Kong Stock All Code List](https://docs.google.com/spreadsheets/d/1avkeR1heZSj6gXIkDeBt8X3nv4EzJetw4yFuKjSDYtA/edit?gid=1134034911#gid=1134034911)
 
-## For more products, please contact directly:<br/>
-- Email: support@alltick.co
-- Skype: https://join.skype.com/invite/xokTc695huNu
-- Telegram: https://t.me/alltick001
+
 
 ## Code Example
 
