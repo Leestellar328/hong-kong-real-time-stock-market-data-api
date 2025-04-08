@@ -98,13 +98,6 @@ AllTick provides high-frequency data updates, pushing each and every tick in rea
 - [HTTP Request Example](./Examples/Java/HttpJavaExample.java)
 - [WebSocket Request Example](./Examples/Java/WebSocketJavaExample.java)
 
-## Contact Us
-Email: support@alltick.co
-
-Skype: [https://join.skype.com/invite/xokTc695huNu](https://join.skype.com/invite/xokTc695huNu)
-
-Telegram: [https://t.me/alltick001](https://t.me/alltick001)
-
 ## Author: AllTick
 
 ## Other Works
